@@ -3,7 +3,7 @@ body{
 	margin-right: auto;
     margin-left: auto;
 	padding: 10%;
-	font: 80% 'Anton', sans-serif;
+	font-family: 80% 'Poiret One', cursive;
     background: url('../images/background-img.jpeg');
 }
 /*Make the h1 heading bigger with a bold font*/
@@ -12,7 +12,7 @@ h1{
 	font-size: 15px;
 	font-weight: bold;
     color: rgb(115, 36, 57);
-    font-family: 'Jost', sans-serif;
+    font-family: 'Poiret One', sans-serif;
     padding: 10px;
     margin: 10px;
     text-align: center;
@@ -88,7 +88,7 @@ h2{
 
 /* styling the <p> */
 p {
-    font-family: 'Jost', sans-serif;
+    font-family: 'Poiret One', sans-serif;
     color: rgb(38,38,28);
     padding: 10px;
     /* margin: 10px; */
